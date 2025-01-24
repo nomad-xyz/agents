@@ -134,7 +134,7 @@
 ### v0.1.0-rc.6
 
 - refactor: move common types (e.g. NomadIdentifier) into rust/nomad-types
-- refactor: replcace BaseAgentConfig with agent-specific public config blocks
+- refactor: replace BaseAgentConfig with agent-specific public config blocks
   instantiated with interval and enabled there by default
 - fix: uint deser_nomad_number expanded beyond just u64
 
