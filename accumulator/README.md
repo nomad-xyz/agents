@@ -3,7 +3,7 @@
 A set of accumulator-related tooling for Nomad development. This crate contains
 a full incremental sparse merkle tree, as well as a lightweight tree which
 stores only the leading branch. The full tree is suitable for proving, while the
-light tree is suitable only for verifiying proofs.
+light tree is suitable only for verifying proofs.
 
 ### Interface
 
